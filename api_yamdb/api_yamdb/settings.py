@@ -12,7 +12,7 @@ SECRET_KEY = 'p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    os.environ.get("ALLOWED_HOSTS", default="127.0.0.1",), "localhost", "web"
+    os.environ.get("ALLOWED_HOSTS", default="127.0.0.1",), "localhost", "web", "51.250.93.31"
 ]
 
 # Application definition
