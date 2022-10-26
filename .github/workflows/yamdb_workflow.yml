@@ -47,7 +47,7 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: roadangeles/yamdb_final:latest
+          tags: roadangeles/yamdb_final:v1.25.10.2022
           file: api_yamdb/Dockerfile
 
   deploy:
