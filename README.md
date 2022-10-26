@@ -1,3 +1,4 @@
+![Yamdb Workflow Status](https://github.com/roadangeles/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # API YAMDB
 API для получения информации и обсуждения произведений литературы, музыки и кино.
 
