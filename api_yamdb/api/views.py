@@ -13,6 +13,7 @@ from rest_framework.views import APIView
 from rest_framework_simplejwt.tokens import RefreshToken
 from reviews.models import Categories, Genres, Review, Title
 from users.models import User
+
 from api_yamdb.settings import DOMAIN_NAME
 
 from .filters import TitlesFilter
